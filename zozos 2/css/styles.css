@@ -47,25 +47,19 @@
    text-decoration: none;
  }
 
- .twitter {
+ .fa {
    float: right;
-   text-align: right;
-   padding-left: 0px;
+   color: red !important;
+   padding-right: 0px;
    text-decoration: none;
  }
 
- .facebook a {
-   float: right;
-   color: blue;
-   padding-left: 0px;
-   text-decoration: none;
+ .facebook {
+   color: blue !important;
  }
 
- .instagram a {
-   float: right;
-   color: red;
-   padding-left: 0px;
-   text-decoration: none;
+ section {
+   padding-left: 650px;
  }
 
  .lunch {
@@ -137,4 +131,8 @@
 
  .contactme {
    color: red;
+ }
+
+ .phone {
+   color: white;
  }
