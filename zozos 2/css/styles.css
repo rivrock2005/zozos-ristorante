@@ -1,0 +1,139 @@
+ html {
+   background: url(../img/wine3.jpg) no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+ }
+
+ body {
+   background-color: transparent;
+ }
+
+ img {
+   position: absolute;
+   top: 70px;
+   left: 25px;
+   z-index: 1;
+ }
+
+ .navbar {
+   background-color: black !important;
+ }
+
+ .container {
+   padding-top: 550px;
+ }
+
+ .container1 {
+   padding-top: 250px;
+   padding-bottom: 50px;
+   padding-left: 25px;
+ }
+
+ h2 {
+   color: green;
+ }
+
+ p {
+   color: white;
+ }
+
+ .fa {
+   padding: 5px;
+   font-size: 30px;
+   width: 50px;
+   text-align: left;
+   text-decoration: none;
+ }
+
+ .twitter {
+   float: right;
+   text-align: right;
+   padding-left: 0px;
+   text-decoration: none;
+ }
+
+ .facebook a {
+   float: right;
+   color: blue;
+   padding-left: 0px;
+   text-decoration: none;
+ }
+
+ .instagram a {
+   float: right;
+   color: red;
+   padding-left: 0px;
+   text-decoration: none;
+ }
+
+ .lunch {
+   padding-left: 50px;
+   color: red;
+   font-family: comic sans MS, san-serif;
+   font-size: 2.5em;
+ }
+
+ .menuheading {
+   color: red;
+   font-family: comic sans MS, san-serif;
+   font-size: 1.5em;
+   padding-left: 10px;
+ }
+
+ .lunchmenu {
+   color: white;
+   font-family: arial;
+   font-size: .6em;
+   padding-left: 10px;
+ }
+
+ .column1 {
+   width: 50%;
+   padding-top: 295px;
+   height: 300px;
+   padding-left: 100px;
+ }
+
+ .contact-form {
+   color: white;
+   font-size: 1em;
+   padding-top: 295px;
+   padding-right: 60px;
+ }
+
+ .fa-ul {
+   color: white;
+   padding-top: 250px;
+   padding-left: 40px;
+   padding-right: 80px;
+ }
+
+ /* .address {
+   padding-left: 40px;
+   padding-right: 80px;
+ } */
+ .footercontact {
+   padding-top: 250px;
+   color: red;
+   text-align: center;
+ }
+
+ .footerhome {
+   padding-top: 550px;
+   color: red;
+   text-align: center;
+ }
+
+ .footergallery {
+   padding-top: 255px;
+   color: red;
+   text-align: center;
+ }
+
+ .img-fluid {
+   border-width: 5px;
+   border-color: black;
+   border-style: solid;
+ }
