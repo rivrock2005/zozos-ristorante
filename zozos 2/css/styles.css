@@ -136,3 +136,13 @@
  .phone {
    color: white;
  }
+
+ .times {
+   font-size: .8em;
+ }
+
+ .hours {
+   font-size: 2em;
+   color: red;
+   padding-left: 65px;
+ }
