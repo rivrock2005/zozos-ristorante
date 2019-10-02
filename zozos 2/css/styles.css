@@ -140,3 +140,24 @@
    color: red;
    padding-left: 65px;
  }
+
+ .ashtons {
+   float: left;
+   padding-left: 350px;
+   color: green;
+ }
+
+ .pic1 {
+   padding-top: 230px;
+   float: left;
+ }
+
+ .pic2 {
+   padding-top: 550px;
+ }
+
+ h2 {
+   padding-top: 250px;
+   padding-left: 30px;
+   color: red;
+ }
